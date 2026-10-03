@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\回调函数\回调函数\main.cpp(33,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+C:\Users\ASUS\source\repos\回调函数\回调函数\main.cpp(33,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "HWND" 的参数 1 冲突
+  回调函数.vcxproj -> C:\Users\ASUS\source\repos\回调函数\x64\Debug\回调函数.exe

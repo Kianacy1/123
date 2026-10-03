@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\\u56DE\u8C03\u51FD\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9036858E-6B77-4989-A6AC-88CF3E2F47DB}|\u56DE\u8C03\u51FD\u6570\\\u56DE\u8C03\u51FD\u6570.vcxproj|C:\\Users\\ASUS\\source\\repos\\\u56DE\u8C03\u51FD\u6570\\\u56DE\u8C03\u51FD\u6570\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9036858E-6B77-4989-A6AC-88CF3E2F47DB}|\u56DE\u8C03\u51FD\u6570\\\u56DE\u8C03\u51FD\u6570.vcxproj|solutionrelative:\u56DE\u8C03\u51FD\u6570\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\\u56DE\u8C03\u51FD\u6570\\\u56DE\u8C03\u51FD\u6570\\main.cpp",
+              "RelativeDocumentMoniker": "\u56DE\u8C03\u51FD\u6570\\main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\\u56DE\u8C03\u51FD\u6570\\\u56DE\u8C03\u51FD\u6570\\main.cpp*",
+              "RelativeToolTip": "\u56DE\u8C03\u51FD\u6570\\main.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-02T14:35:01.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

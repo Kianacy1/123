@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="回调函数/回调函数.vcxproj" />
+  <Project Path="回调函数/回调函数.vcxproj" Id="9036858e-6b77-4989-a6ac-88cf3e2f47db" />
 </Solution>
